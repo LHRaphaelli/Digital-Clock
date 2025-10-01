@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo o desenvolvimento de um relógio digital dinâmico feito com HTML, CSS e JavaScript.
 
-![Relógio digital](https://github.com/user-attachments/assets/e32525e6-b9fe-4ed7-9f2c-1af5f0459ac8)
+![Relógio digital](https://github.com/user-attachments/assets/0faf36e6-81c3-46d2-a48f-768b4a6c7370)
 
 ### Tecnologias utilizadas
 
